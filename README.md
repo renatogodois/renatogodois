@@ -4,8 +4,8 @@ Welcome aboard
 <div align="center">
   <a href="https://github.com/renatogodois">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=renatogodois&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <!--div<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renatogodois&layout=compact&langs_count=7&theme=dracula"/>
-</div></div--> 
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renatogodois&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Renato-Az" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg">
   <img align="center" alt="Renato-GCP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg">
