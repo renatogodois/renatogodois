@@ -1,7 +1,7 @@
 ### Hi, Welcome to Renato's profile ###
 
 Welcome aboard
-<div align="center">
+<div align="right">
   <a href="https://github.com/renatogodois">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=renatogodois&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renatogodois&layout=compact&langs_count=7&theme=dracula"/>
